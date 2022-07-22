@@ -30,7 +30,7 @@ USER_DETAILS = "<b>FROM:</b>\nName: {} {}\nId: {}\nUname: @{}\nScam: {}\nRestric
 FORCESUB_TEXT = "**❌ Access Denied ❌**\n\nYou Must Join Here\n♻️Join and Try Again.♻️"
 HELP_STRING = "Meme Tiye nam dapam Mekata😒😂. Adminlata Msg Daanna One Nam ekat Mekata dapam 😒😂"
 START_STRING ="""
-Hi {}, Welcome to  Jollyathl Official Bot.
+Hi {}, Welcome to  Game of Thrones Official Bot.
  Bot By [Charii 『🇱🇰』](https://t.me/Chari_x)
 """
 
@@ -58,21 +58,21 @@ BACK_BUTTONS = InlineKeyboardMarkup([[
                   ) 
 
 START_BUTTON = InlineKeyboardMarkup([[              
-                 InlineKeyboardButton('🍁 Owner 🍁', user_id="@Chari_x")
+                 InlineKeyboardButton('🍁 Owner 🍁', user_id="@Rose_park_anne")
                  ],
                  [
                  InlineKeyboardButton("➕ sʜᴀʀᴇ ➕", switch_inline_query="share"),
                  InlineKeyboardButton("➕ sʜᴀʀᴇ ᴄʜɴʟ ➕", switch_inline_query="cshare")
                  ],
                  [
-                 InlineKeyboardButton("┊Memes 『🇱🇰』", url="https://t.me/jollyathall")
+                 InlineKeyboardButton("┊Memes 『🇱🇰』", url="https://t.me/gotsrilankachannel")
                  ]]
                   )
 
 
 
 OWNER_BTN = InlineKeyboardMarkup([[              
-                 InlineKeyboardButton('✨Owner✨', user_id="Chari_x")
+                 InlineKeyboardButton('✨Owner✨', user_id="Rose_park_anne")
                  ]]
                   )               
 
