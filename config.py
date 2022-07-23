@@ -65,7 +65,7 @@ START_BUTTON = InlineKeyboardMarkup([[
                  InlineKeyboardButton("➕ sʜᴀʀᴇ ᴄʜɴʟ ➕", switch_inline_query="cshare")
                  ],
                  [
-                 InlineKeyboardButton("┊Memes 『🇱🇰』", url="https://t.me/gotsrilankachannel")
+                 InlineKeyboardButton("GOT✨", url="https://t.me/gotsrilankachannel")
                  ]]
                   )
 
