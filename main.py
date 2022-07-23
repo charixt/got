@@ -116,7 +116,7 @@ async def startprivate(client, message):
             logging.info(f"#NewUser :- Name : {message.from_user.first_name} ID : {message.from_user.id}")
     file_id = "CAADBQADSwQAAnxrOFaYSIaXhBE_YAI"
     await client.send_sticker(message.chat.id, file_id, reply_markup=start_menu)
-    text = f"Hi {message.from_user.mention}, Welcome to  Game Of thrones Telegram 🇱🇰 Official Bot"
+    text = f"Hi {message.from_user.mention}, Welcome to  Game Of Thrones Official Bot"
     reply_markup = START_BUTTON  
     await message.reply_text(
         text=text,
@@ -543,7 +543,7 @@ async def status(bot, message):
 • **Of:** {message.from_user.mention} [`{message.from_user.id}`]
 """)
         
-@Client.on_message(filters.command(["help", "help@Jollyathall2bot"]))
+@Client.on_message(filters.command(["help", "help@gotsrilanka1bot"]))
 async def help(bot, message):
     if await forcesub(bot, message):
        return
