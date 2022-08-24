@@ -80,12 +80,11 @@ OWNER_BTN = InlineKeyboardMarkup([[
 
 #Rndm Stkr
 
-OWNER_STICKER = ["CAADAgADtA8AAhUWiEuTU2os6PSW-AI",
-                "CAADAgADCwMAAm2wQgN_tBzazKZEJQI",
-                "CAADBQADSwQAAnxrOFaYSIaXhBE_YAI"              
+OWNER_STICKER = ["CAACAgIAAxkBAAIDnWMGVTQVpNNmzN8r_yPXjXWZvwPvAAJiAgACz1-LBxdZ06vu7i4NHgQ"
+                           
          ]
 
-STAT_STICKER = ["CAADAgADtA8AAhUWiEuTU2os6PSW-AI"
+STAT_STICKER = ["CAACAgIAAxkBAAIDmmMGVOEVjraSkEq91nPOIt0JI0kEAAJhAgACz1-LB4l09ocDZYdJHgQ"
                  
          ]  
 
